@@ -11,7 +11,7 @@ fullScreen();
 
 //Load Images
 pic1 = loadImage("../halloween.jpg");//660x373, Landscape
-pic2 = loadImage(" ../halloween2.jpg"); //same as pic1
+pic2 = loadImage("../halloween2.jpg"); //same as pic1
 //Variable Population
 rectXPic1 = displayWidth*1/4;
 rectYPic1 = displayHeight*0;
